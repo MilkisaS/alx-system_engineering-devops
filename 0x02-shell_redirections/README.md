@@ -6,3 +6,4 @@ Display the last 10 lines of /etc/passwd
 Display the first 10 lines of /etc/passwd
 Printing The Third line of file
 Current working directory result redirection
+Duplicate last line

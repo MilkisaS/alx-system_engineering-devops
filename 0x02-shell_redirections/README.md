@@ -7,3 +7,4 @@ Display the first 10 lines of /etc/passwd
 Printing The Third line of file
 Current working directory result redirection
 Duplicate last line
+Script that deletes all files end with ,js
